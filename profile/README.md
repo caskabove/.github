@@ -1,5 +1,5 @@
-## Hi there 👋
-We are a tech Company
+## Hello Welcome to the CaskAbove GitHub organization Page 👋
+We are building a tech company. Our current focus is on building websites through the use of WordPress.  
 <!--
 
 **Here are some ideas to get you started:**
