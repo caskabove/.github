@@ -1,11 +1,11 @@
-## Hello Welcome to the CaskAbove Organization Page 👋
+# Hello Welcome to the CaskAbove Organization Page 👋
 We are building a tech company.  This is the location where we will collaborate add new Ideas and focus on our goal.
 Look in the Projects section to see the current projects.
 
 Remember this is not a get-rich-quick scheme. It will take time and dedication. I believe that if we stay focused we can build a sustainable company for the future. 
 Our current focus is on building websites through the use of WordPress with the goal of getting a starting minimum of three sites, but we would like more.  There is not a specific focus on the type of site  however we do want an accompanying affiliate sales site for sites that do not focus on sales.
 
-What's The Plan?
+##What's The Plan?
 Initially, as we get sites up and running we want to focus on generating traffic to our sites through the use of SEO optimization.  The long-term goal will be to create a network of sites that we use to generate traffic. Through this traffic, we can direct more traffic to our affiliate sites.
 
 1) Create Sites. We are looking for a total of 6 sites. Get these sites to a ready state including Looks, Layout, art/images, and text content
@@ -21,6 +21,8 @@ Initially, as we get sites up and running we want to focus on generating traffic
      a1) To Learn more about SEO Udemy is a great resource.  This is the SEO course I am currently on. https://www.udemy.com/course/ultimate-seo-training-course/   Note: never pay more than about $30 for a course, they go on sale all the time.
 
 3) Create schedules for the sites, organize the SEO campaign, and maintain our sites until the goal of a given number of visits and metrec including cash flow.
+
+## Help Pages.
 
 <!--
 
