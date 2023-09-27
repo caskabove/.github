@@ -20,7 +20,7 @@ Initially, as we get sites up and running we want to focus on generating traffic
    a. Research and Evaluate SEO tools. There are a number of tools out there we will evaluate and decide which is best for us.
      a1) To Learn more about SEO Udemy is a great resource.  This is the SEO course I am currently on. https://www.udemy.com/course/ultimate-seo-training-course/   Note: never pay more than about $30 for a course, they go on sale all the time.
 
-3) Create schedules for the sites, organize the SEO campaign and maintain our sites untill the goal of 
+3) Create schedules for the sites, organize the SEO campaign, and maintain our sites until the goal of a given number of visits and metrec including cash flow.
 
 <!--
 
