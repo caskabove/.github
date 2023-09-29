@@ -25,7 +25,7 @@ Initially, as we get sites up and running we want to focus on generating traffic
 
 ## Project Pages.
 
-This is where I will put helpful links
+Click here to go to Projects to learn more about each project. https://github.com/orgs/caskabove/projects?query=is%3Aopen or navigate by clicking caskabove then projects
 
 <!--
 
