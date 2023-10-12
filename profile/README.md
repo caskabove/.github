@@ -1,9 +1,8 @@
 # Hello Welcome to the CaskAbove Organization Page 👋
 We are building a tech company.  This is the location where we will collaborate add new ideas and focus on our goals.
-
 In a nutshell. CaskAbove started out a purely informational page on captive chameleon care. This was the humble beginning. Through this, I learned a great deal. As time progressed through some ups and downs I decided to expand CaskAbove. 
 
-##Welcome to CaskAbove LLC.
+## Welcome to CaskAbove LLC.
 CaskAbove LLC is a tech company that will have a two-pronged approach. One focuses on small non-profits through donating to start-ups and potentially maintaining websites to increase their local presence, donation collection, and member organizations. This will allow us to expand our web presence in a very positive way. The second prong will focus on affiliate marketing sites. We will establish a small collection of marketing sites. These sites will be designed, and maintained as "Personality Sites". This will include a simple bi-monthly blog to be maintained. Any marketing sites must have a relation to a non-profit type. As an example, we have DurhamDoggiePosse, a dog and cat rescue, and the herpShopper a pet-related site. Other concepts would be River, stream, and local land non-profits as these could easily cross reference to fishing, hiking, etc.
 
 ## Getting Found and SEO
