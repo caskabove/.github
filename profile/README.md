@@ -5,10 +5,9 @@ We understand the challenges that small non-profits face when it comes to growth
 
 By simplifying your web app management and enhancing fundraising capabilities at no cost, we aim to free up your valuable time and resources, empowering your non-profit to make an even greater impact in the communities you serve.
 
-## What is the goal of CaskAbove LLC.
-Our goal is to focus on small non-profits by donating to start-ups and maintaining websites to increase their local presence, donation collection, and member organizations. 
+## What is the goal of CaskAbove:
+"At CaskAbove, our primary goal is to empower small, local non-profit organizations by providing them with the essential tools and resources they need to thrive. We aim to facilitate their growth, streamline operations, and enhance fundraising efforts, ultimately enabling them to make a more significant and lasting impact in their communities. Our mission is to make our services accessible and cost-effective, allowing non-proprofits to achieve their objectives efficiently."
 
-## Getting Found and SEO
-SEO (Search Engine Optimization) Will be a significant part of what we do. This is the hardest part for a small non-profit and this is an area where we can help. We are a new company we are looking to create a network of traffic that has a positive influence. That is why we picked non-profits, specifically small non-profits. These are the people that are making a difference biggest difference locally and can benefit the most from what we offer..
-
+## Mission Statement:
+"CaskAbove is dedicated to the success and sustainability of small, local non-profit organizations. Our mission is to help them expand their outreach, optimize their operations, and fortify their community connections. We offer a comprehensive range of services, including web design, management, consultations, and custom software solutions, all provided free of charge. Our commitment is to break down barriers that often hinder non-profits' growth and empower them with the tools and support they need to excel. We are driven by the belief that, by enhancing the capabilities of non-profits, we contribute to stronger, more vibrant communities."
 
