@@ -2,9 +2,9 @@
 ## Welcome to CaskAbove LLC.
 CaskAbove LLC is a tech company that will have a two-pronged approach. One focuses on small non-profits through donating to start-ups and potentially maintaining websites to increase their local presence, donation collection, and member organizations. This will allow us to expand our web presence in a very positive way. The second prong will focus on affiliate marketing sites. We will establish a small collection of marketing sites. These sites will be designed, and maintained as "Personality Sites". This will include a simple bi-monthly blog to be maintained. Any marketing sites must have a relation to a non-profit type. As an example, we have DurhamDoggiePosse, a dog and cat rescue, and the herpShopper a pet-related site. Other concepts would be River, stream, and local land non-profits as these could easily cross reference to fishing, hiking, etc.
 
-## Getting Found and SEO
-SEO (Search Engine Optimization) Will be a significant part of what we do. As we are a new company we are looking to create a network of traffic, this is why we want some relation between the non-profits and are marketing sites. This will allow for many relational links between related sites allowing for higher ranking. Further, the nature of the non-profits gives us a solid outreach for a huge source of backlinking, which is getting links to our sites from other sites.  The higher the ranking of the site that links back to you the higher the ranking.  So the concept is that larger well know companies are far more likely to allow a non-profit backlink, which backlinks to our Marketing site raising our rankings.
-
+#Skills Needed#
+Word Press
+.CSS
 
 ## Where are we at?
 Initially, as we get sites up and running we want to focus on generating traffic to our sites through the use of SEO optimization.  The long-term goal will be to create a network of sites that we use to generate traffic. Through this traffic, we can direct more traffic to our affiliate sites.
